@@ -1,0 +1,13 @@
+#Perros {
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
+
+#Gatos {
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
